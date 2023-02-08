@@ -1,0 +1,18 @@
+﻿  Navigation.cpp
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(253,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(255,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(299,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(332,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(359,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(376,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Navigation.cpp(405,22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 397 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ACW_Template.vcxproj -> C:\Users\DBate\Documents\UniWork\602854\500083\500083-lab-i-DanielJBates\500083_ACW_Template\Release\ACW_Template.exe
